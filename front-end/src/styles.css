@@ -1,0 +1,39 @@
+/* You can add global styles to this file, and also import other style files */
+@import url('https://unpkg.com/bootstrap@3.3.7/dist/css/bootstrap.min.css');
+.popOver {
+    z-index: 1000;
+    position: relative;
+    right: 0;
+    left: 50px;
+    margin-right: auto;
+    margin-left: auto;
+    min-height: 20px;
+    width: 90%;
+    max-width: 350px;
+    background-color: red;
+    color: white;
+    text-align: center;
+    padding: 12px;
+  }
+
+  /* .popOver { position: relative; background: #00aabb; border-radius: .4em; } */
+  .popOver:after { 
+      content: ''; 
+      position: absolute; 
+      bottom: 0; 
+      left: 50%; 
+      width: 0; 
+      height: 0; 
+      border: 14px solid transparent; 
+      border-top-color: red; 
+      border-bottom: 0; 
+      margin-left: -14px; 
+      margin-bottom: -14px; 
+      display: unset;
+    }
+
+.isSuccess {
+  z-index: 100;
+  background-color: #fff;
+  opacity: 50%;
+}

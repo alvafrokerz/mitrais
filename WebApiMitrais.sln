@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28803.352
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApiMitrais", "WebApiMitrais\WebApiMitrais.csproj", "{6911AC07-DD0B-4CF3-9805-B04987FBFB25}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6911AC07-DD0B-4CF3-9805-B04987FBFB25}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6911AC07-DD0B-4CF3-9805-B04987FBFB25}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6911AC07-DD0B-4CF3-9805-B04987FBFB25}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6911AC07-DD0B-4CF3-9805-B04987FBFB25}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FDAF75DB-5A61-428D-B0E2-1A08FF384125}
+	EndGlobalSection
+EndGlobal
