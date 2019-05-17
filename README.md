@@ -1,16 +1,16 @@
 # mitrais
 
-for front end
-after pull this repo
-go to folder front-end 
-cd front-end
-use npm install
-then run with ng serve
+for front end</br>
+after pull this repo</br>
+go to folder front-end </br>
+cd front-end</br>
+use npm install</br>
+then run with ng serve</br></br>
 
-for backend
-open visual studio
-open project webApiMitrais.sln
-install package in nuget terminal
-Install-Package Microsoft.AspNet.WebApi.Cors
-then run the project or use f5
+for backend</br>
+open visual studio</br>
+open project webApiMitrais.sln</br>
+install package in nuget terminal</br>
+Install-Package Microsoft.AspNet.WebApi.Cors</br>
+then run the project or use f5</br>
 
